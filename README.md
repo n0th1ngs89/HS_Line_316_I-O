@@ -62,11 +62,6 @@
     <th colspan="3">Выходы</th>
   </tr>
   <tr>
-    <td>Тэги</td>
-    <td>Описание</td>
-    <td>Адрес</td>
-  </tr>
-  <tr>
     <td>processing_output_0_drill</td>
     <td>включить дрель</td>
     <td>Q0.0</td>
@@ -138,11 +133,6 @@
   </tr>
   <tr>
     <th colspan="3">Выходы</th>
-  </tr>
-<tr>
-    <td>Тэги</td>
-    <td>Описание</td>
-    <td>Адрес</td>
   </tr>
   <tr>
     <td>handling_output_0_to_green</td>
@@ -230,11 +220,6 @@
   </tr>
   <tr>
     <th colspan="3">Выходы</th>
-  </tr>
-  <tr>
-    <td>Тэги</td>
-    <td>Описание</td>
-    <td>Адрес</td>
   </tr>
   <tr>
     <td>sorting_output_0_move_conveyor_right </td>
