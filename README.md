@@ -1,4 +1,7 @@
 # Документация проекта
+## Ссылка на проект
+[HS Line 316](https://drive.google.com/drive/folders/10Y2lL00LheItdtCxrIDzM5lAGOLko-ze?usp=sharing)
+
 ## Таблица входных и выходных тэгов
 
 ### Proccesing station PLC
@@ -236,3 +239,5 @@
     <td>Q0.3</td>
   </tr>
 </table>
+
+
