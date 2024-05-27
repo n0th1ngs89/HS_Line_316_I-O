@@ -2,7 +2,7 @@
 ## Таблица входных и выходных тэгов
 
 ### Proccesing station PLC
-<table >
+<table>
   <tr>
     <th colspan="3">Входы</th>
   </tr>
@@ -37,9 +37,6 @@
     <td>датчик для красной и серебристой шайбы</td>
     <td>I0.7</td>
   </tr>
-</table>
-
-<table >
   <tr>
     <th colspan="3">Выходы</th>
   </tr>
@@ -83,7 +80,7 @@
 
 ### Handling and packing station PLC
 
-<table >
+<table>
   <tr>
     <th colspan="3">Входы</th>
   </tr>
@@ -118,9 +115,6 @@
     <td>упаковщик включен</td>
     <td>I0.7</td>
   </tr>
-</table>
-
-<table >
   <tr>
     <th colspan="3">Выходы</th>
   </tr>
@@ -213,9 +207,6 @@
     <td>коробка упала в желоб со своим цветом</td>
     <td>I0.4</td>
   </tr>
-</table>
-
-<table >
   <tr>
     <th colspan="3">Выходы</th>
   </tr>
