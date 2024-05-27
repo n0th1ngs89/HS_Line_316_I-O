@@ -25,13 +25,14 @@
 ### Proccesing station PLC
 <table>
   <tr>
-    <th colspan="3">Входы</th>
-  </tr>
-  <tr>
     <td>Тэги</td>
     <td>Описание</td>
     <td>Адрес</td>
   </tr>
+  <tr>
+    <th colspan="3">Входы</th>
+  </tr>
+  
   <tr>
     <td>processing_input_1_workpiece_detected</td>
     <td>шайба на определении цвета</td>
@@ -98,13 +99,14 @@
 
 <table>
   <tr>
-    <th colspan="3">Входы</th>
-  </tr>
-  <tr>
     <td>Тэги</td>
     <td>Описание</td>
     <td>Адрес</td>
   </tr>
+  <tr>
+    <th colspan="3">Входы</th>
+  </tr>
+  
   <tr>
     <td>handling_input_0_workpiece_pushed</td>
     <td>шайба выдвинута</td>
@@ -201,13 +203,14 @@
 ### Sorting station PLC
 <table >
   <tr>
-    <th colspan="3">Входы</th>
-  </tr>
-  <tr>
     <td>Тэги</td>
     <td>Описание</td>
     <td>Адрес</td>
   </tr>
+  <tr>
+    <th colspan="3">Входы</th>
+  </tr>
+  
   <tr>
     <td>sorting_input_3_box_on_conveyor</td>
     <td>коробка на конвейере</td>
