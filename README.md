@@ -1,12 +1,13 @@
 # Документация проекта
 ## Авторы
-1. Досаев Максим
-2. Иванов Даниил
-3. Шварц Максим
-4. Умнова Екатерина
+Досаев Максим  
+Иванов Даниил  
+Шварц Максим  
+Умнова Екатерина  
+Руководитель: **Куклин Егор Вадимович**
 
 ## Описание опставленной задачи
-Необходимо организовать передачу входных и выходных данных между Sorting station PLC, Proccesing station PLC и Handling and packing station PLC. Так же поднять OPC сервер на Handling and packing station PLC для дальнейшего его использования командами отвечающими за разработку логики и SCADA системы.
+Необходимо организовать передачу входных и выходных данных между Sorting station PLC, Proccesing station PLC и Handling and Packing station PLC. Так же поднять OPC сервер на Handling and Packing station PLC для дальнейшего его использования командами отвечающими за разработку логики и SCADA системы.
 
 ## Ссылка на проект
 [HS Line 316](https://drive.google.com/drive/folders/10Y2lL00LheItdtCxrIDzM5lAGOLko-ze?usp=sharing)
@@ -95,7 +96,7 @@
   </tr>
 </table>
 
-### Handling and packing station PLC
+### Handling and Packing station PLC
 
 <table>
   <tr>
@@ -256,4 +257,7 @@
 Сбор данных был реализован с помощью блока GET в Tia Portal
 
 ![изображение](https://github.com/n0th1ngs89/HS_Line_316_I-O/assets/146949002/b206100b-15a7-44b3-8e9e-9ef3aa4cb85b)
+
+## Итог работы
+Реализован сбор и передача данных между ПЛК. Поднят OPC сервер. Реализована передача данных на OPC сервер. 
 
