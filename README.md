@@ -9,6 +9,10 @@
 ## Описание опставленной задачи
 Необходимо организовать передачу входных и выходных данных между Sorting station PLC, Proccesing station PLC и Handling and Packing station PLC. Так же поднять OPC сервер на Handling and Packing station PLC для дальнейшего его использования командами отвечающими за разработку логики и SCADA системы.
 
+## Используемое ПО
+Siemens TIA Portal V16  
+UaExpert
+
 ## Ссылка на проект
 [HS Line 316](https://drive.google.com/drive/folders/10Y2lL00LheItdtCxrIDzM5lAGOLko-ze?usp=sharing)
 
